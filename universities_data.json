@@ -1,0 +1,45 @@
+{
+  "South Valley University": {
+    "faculties": {
+      "Engineering": ["Civil", "Mechanical", "Electrical", "Architecture"],
+      "Computers and Information": ["Computer Science", "Information Technology", "Artificial Intelligence"],
+      "Medicine": ["Academic Departments", "Clinical Departments", "Surgery", "Internal Medicine"],
+      "Dentistry": ["General Dentistry"],
+      "Pharmacy": ["Clinical Pharmacy"],
+      "Physical Therapy": ["General Physical Therapy"],
+      "Veterinary Medicine": ["General Veterinary Medicine"],
+      "Science": ["Chemistry", "Physics", "Botany", "Zoology", "Geology", "Mathematics", "Biotechnology"],
+      "Arts": ["Arabic", "English", "French", "History", "Geography", "Sociology", "Psychology", "Archaeology", "GIS and Surveying"],
+      "Mass Communication": ["Journalism", "Broadcasting", "Public Relations"],
+      "Commerce": ["Accounting", "Business Administration", "Economics", "Insurance"],
+      "Law": ["Public Law", "Private Law"],
+      "Agriculture": ["Plant Production", "Animal Production", "Food Technology"],
+      "Nursing": ["General Nursing", "Critical Care"],
+      "Specific Education": ["Art Education", "Music Education", "Educational Technology", "Home Economics"],
+      "Physical Education": ["Teaching", "Training", "Sports Management"]
+    }
+  },
+  "Al-Azhar University (Qena)": {
+    "faculties": {
+      "Engineering (Boys)": ["Civil", "Electrical", "Architecture"]
+    }
+  },
+  "SVU National": {
+    "faculties": {
+      "Medicine": ["Medicine and Surgery"],
+      "Dentistry": ["Oral and Dental Medicine"],
+      "Pharmacy": ["PharmD", "Clinical Pharmacy"],
+      "Physical Therapy": ["General Physical Therapy"],
+      "Engineering": ["Civil", "Mechanical", "Electrical", "Architecture"],
+      "Computers and Artificial Intelligence": ["Computer Science", "Information Technology", "Artificial Intelligence"],
+      "Nursing": ["General Nursing"],
+      "Alsun": ["English", "French", "German"]
+    }
+  },
+  "EELU Qena": {
+    "faculties": {
+      "Computers and IT": ["Information Technology", "Computer Science", "Data Science"],
+      "Business Administration": ["Management", "Marketing", "Finance"]
+    }
+  }
+}
