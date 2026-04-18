@@ -1,0 +1,30 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="LanguageDetectionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <list>
+          <option value="backoff" />
+          <option value="google-ai-generativelanguage" />
+          <option value="google-api-core" />
+          <option value="google-api-python-client" />
+          <option value="google-auth-httplib2" />
+          <option value="google-generativeai" />
+          <option value="grpcio-status" />
+          <option value="httplib2" />
+          <option value="posthog" />
+          <option value="proto-plus" />
+          <option value="pyparsing" />
+          <option value="rsa" />
+          <option value="typer-slim" />
+          <option value="uritemplate" />
+          <option value="openpyxl" />
+          <option value="pysqlite3-binary" />
+          <option value="pyngrok" />
+          <option value="nest_asyncio" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
