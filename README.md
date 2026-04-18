@@ -60,7 +60,7 @@ Provides AI-generated search tags and career tips based on the user's academic p
 
 **Parameters:**
 - `faculty`: (Query - Required) Name of the faculty.
-department`: (Query - Optional) Specific department for higher accuracy.
+- `department`: (Query - Optional) Specific department for higher accuracy.
 
 **Response Example:**
 ```json
