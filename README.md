@@ -55,7 +55,7 @@ Uploads an academic document and returns extraction & validation results.
 }
 ```
 
-### 2. GET /get-recommendations
+### 2. `GET /get-recommendations`
 Provides AI-generated search tags and career tips based on the user's academic profile.
 
 **Parameters:**
